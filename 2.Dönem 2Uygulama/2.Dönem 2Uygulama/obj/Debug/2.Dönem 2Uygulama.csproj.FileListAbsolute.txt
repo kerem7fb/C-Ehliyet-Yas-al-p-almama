@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\bin\Debug\2.Dönem 2Uygulama.exe.config
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\bin\Debug\2.Dönem 2Uygulama.exe
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\bin\Debug\2.Dönem 2Uygulama.pdb
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\2.Dönem 2Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\_2.Dönem_2Uygulama.Form1.resources
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\_2.Dönem_2Uygulama.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\2.Dönem 2Uygulama.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\2.Dönem 2Uygulama.exe
+C:\Users\user\Desktop\10-M\2.Dönem 2Uygulama\2.Dönem 2Uygulama\obj\Debug\2.Dönem 2Uygulama.pdb
